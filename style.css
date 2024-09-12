@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/abstract-space-neon-light-triangle-3d-render-universe-concept-3d-render_24623-817.jpg?w=740);
+    background-repeat: repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+}
+.img {
+    color: yellowgreen;
+}
+
+button {
+    background-color: yellowgreen;
+    color: var(--bg);
+    border-radius: 5%;
+    position: fixed;
+    cursor: pointer;
+    
+
+
+
+    
+   
+}

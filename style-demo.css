@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/3d-rendering-futuristic-background-with-geometric-shapes-colorful-neon-lights_181624-12156.jpg?t=st=1726140305~exp=1726143905~hmac=fc810d70c57065a0dbdb9166605920c33daabd401db7be3e265304675378d800&w=740);
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     
+  
+}
+
+button {
+
+    color: yellowgreen;
+    border-color: black;
+}
